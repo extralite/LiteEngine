@@ -1,0 +1,4 @@
+[submodule "LiteGraphics"]
+	path = LiteGraphics
+	url = https://github.com/extralite/LiteGraphics.git
+	branch = 1.0
